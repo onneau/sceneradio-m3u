@@ -89,7 +89,7 @@
   },
   "npo-blend": {
     "source": "https://commons.wikimedia.org/wiki/Special:FilePath/NPO%20Blend%20logo%20%28paars%29.svg?width=500",
-    "sha256": "ad2a93695654cc2a4fb5a77af2bed289e6f47cc38db8e8f825562c6528bdbb1f"
+    "sha256": "1f819c6bed734dff9c14b1bfeb1493a1d672921b49cf46cb09f201cd3da0aad0"
   },
   "npo-funx": {
     "source": "https://commons.wikimedia.org/wiki/Special:FilePath/NPO%20FunX%20logo%202015.png?width=500",
@@ -101,15 +101,15 @@
   },
   "npo-radio-1": {
     "source": "https://commons.wikimedia.org/wiki/Special:FilePath/NPO%20Radio%201%20logo%202014.svg?width=500",
-    "sha256": "d1f3ac7b1c3e8c07fa58fc6fef84384f38c083f72c38a54b1c7300f78b872c35"
+    "sha256": "3d9be5dd13ea2ed8d4414a8cee147a7632b8ec1c666833fec85fa52bc35b101f"
   },
   "npo-radio-2": {
     "source": "https://commons.wikimedia.org/wiki/Special:FilePath/NPO%20Radio%202%20logo.svg?width=500",
-    "sha256": "0ae26e5779d9fee0de2601bc750f35d8a64c9128eae5d1f3f93975b9caf28956"
+    "sha256": "cc5eed50bd8b42b52b1f3382cf634d6664b960208ce28a3a8feb2cf57d48e280"
   },
   "npo-radio-5": {
     "source": "https://commons.wikimedia.org/wiki/Special:FilePath/NPO%20Radio%205%20logo%202016.svg?width=500",
-    "sha256": "ec3fe1e742f596f4ec9b43ba67b90a0de3ab38a04e6c7e9f4810cdc9aa63ca95"
+    "sha256": "bdacc838ac5c542c6ce839a86a693ec694bee417f65115d7ff2a9401038a43ae"
   },
   "omroep-brabant": {
     "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Omroep%20Brabant%20logo.png?width=500",
@@ -141,7 +141,7 @@
   },
   "qmusic": {
     "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Qmusic%20logo.svg?width=500",
-    "sha256": "42af212518593690f62e8b62a9564cf981134e66464ba5e8c768ef11817282d1"
+    "sha256": "60b21a5d4104ab644e7846cbb21dab79910b0c9b944e1e90be42b7f76745a62d"
   },
   "qmusic-90s-00s": {
     "source": "https://i.postimg.cc/43fXb5dj/Qmusic-90s-00s.png",
@@ -161,7 +161,7 @@
   },
   "radio-10": {
     "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Radio%2010%20logo%202019.svg?width=500",
-    "sha256": "f97e8cd9fe9bddffdcc37cfaad637521f17adb782cde9180bf072f345a3f6bee"
+    "sha256": "c7bb1d0a457dfd88cce83d196cd8bd3fb3922abc9e30b2a397b17507b9bf9ac6"
   },
   "radio-10-60-s-70-s-hits": {
     "source": "https://www.radio10.nl/favicon.ico",
@@ -177,7 +177,7 @@
   },
   "radio-538": {
     "source": "https://commons.wikimedia.org/wiki/Special:FilePath/538%20Logo.png?width=500",
-    "sha256": "c12aa8e322c06eb13190dea6c1f5dcec75bfb0247e25e2b04a4e8ccafdca8081"
+    "sha256": "52d0234bfeb5d5b222536fb5976c5c6fa932d596d6ef5852cfbf400c50ea902e"
   },
   "radio-continu": {
     "source": "https://radiocontinu.com/favicon.ico",
@@ -193,7 +193,7 @@
   },
   "radio-veronica": {
     "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Radio%20Veronica%20logo.svg?width=500",
-    "sha256": "9e26159c21fe6f4fffed128e558a4619e57cac6c6f1b801cb5ac365c5819dd9d"
+    "sha256": "683b13c2a0c39899743c358a2684505c82c803fa524d69d6c35ed0d1bdd824ae"
   },
   "rtv-drenthe": {
     "source": "https://commons.wikimedia.org/wiki/Special:FilePath/RTV%20Drenthe%20logo.png?width=500",
@@ -217,7 +217,7 @@
   },
   "sky-radio": {
     "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Sky%20Radio%20logo.png?width=500",
-    "sha256": "06ae121f5fbd9c8f85d5cbd6ef81a2ba0243e1c695fa91bc5e8d405e1fe5a76f"
+    "sha256": "625e530da7de62fc017b3f1768fd50d8cc581c2116a5cafce17afc80eb975b51"
   },
   "sky-radio-80-s-hits": {
     "source": "http://www.skyradio.nl/favicon.ico",
@@ -261,11 +261,7 @@
   },
   "sublime": {
     "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Sublime%20FM%20logo%202018.png?width=500",
-    "sha256": "c70c4d074604b071c00fe71648c8580aeb9c197f4bfd21fc8b43109b73cb2fdc"
-  },
-  "veronica-rock-radio": {
-    "source": "https://api.radioveronica.nl/media/utpdvkit/radio-veronica-rock-radio-1_1.png",
-    "sha256": "fe9a5543f0f31f82050e27a5cf210fc93e400dfd2de3471d839fb04ae8cf2b67"
+    "sha256": "6c2e75b109d49d7ada3ede0511784c4c563663aacd3dfef0c14c56fddf2932d4"
   },
   "waterstad-fm": {
     "source": "https://player.waterstadfm.nl/tmp/images/logo.1492004943.png",

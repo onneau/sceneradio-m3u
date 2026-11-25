@@ -15,7 +15,7 @@ https://icecast.omroep.nl/funx-bb-mp3
 https://icecast.omroep.nl/radio2-sterrennl-mp3
 #EXTINF:-1 tvg-name="NPO Blend" tvg-logo="logos/npo-blend.jpg?v=4c971c99" group-title="NPO;Hiphop;Public Radio",NPO Blend
 https://icecast.omroep.nl/npoblend-bb-mp3
-#EXTINF:-1 tvg-name="Radio 538" tvg-logo="logos/radio-538.jpg?v=56d25006" group-title="Commercieel",Radio 538
+#EXTINF:-1 tvg-name="Radio 538" tvg-logo="logos/radio-538.jpg?v=5a40b329" group-title="Commercieel",Radio 538
 http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO538AAC.aac
 #EXTINF:-1 tvg-name="538 Non-Stop" tvg-logo="logos/538-non-stop.jpg?v=d638f21f" group-title="Commercieel;Non-stop;Top40",538 Non-Stop
 https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR09.mp3
@@ -167,6 +167,8 @@ http://mediaserv38.live-streams.nl:8006/
 http://s45.myradiostream.com:18304/
 #EXTINF:-1 tvg-name="Radio Continu" tvg-logo="logos/radio-continu.jpg?v=87467c3c" group-title="Classics;Variety",Radio Continu
 http://stream.radiocontinu.nl/radiocontinu
+#EXTINF:-1 tvg-name="Hardcore Radio" tvg-logo="logos/hardcore-radio.jpg?v=2542b56e" group-title="Hardcore;Hardcore Techno;Hard Techno",Hardcore Radio
+http://shoutcast1.hardcoreradio.nl/
 #EXTINF:-1 tvg-name="Grolloo Radio" group-title="Americana;Blues;Cajun",Grolloo Radio
 https://uk1.streamingpulse.com/ssl/grollooradio
 #EXTINF:-1 tvg-name="Concertzender Oude Muziek" group-title="Baroque;Classical;Early Music",Concertzender Oude Muziek
