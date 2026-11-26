@@ -1,0 +1,30 @@
+Required Notice: Copyright (c) 2026 Onno (https://github.com/onneau)
+
+English version: [NOTICE](NOTICE)
+
+SceneRadio M3U is een hobbyproject van Onno.
+Licentie: PolyForm Noncommercial License 1.0.0 (zie het bestand LICENSE).
+
+In gewone woorden (de licentietekst zelf is leidend):
+- Je mag de lijst gebruiken, aanpassen, kopiëren en delen voor niet-commerciële doeleinden:
+  privé, hobby, onderzoek, onderwijs en goede doelen.
+- Commercieel gebruik is niet toegestaan.
+- Geef je het door (ook een aangepaste versie), geef dan dit bestand (NOTICE) en LICENSE mee. Zo blijft
+  de naam van de maker erbij staan. De "Required Notice"-regel hierboven moet erbij blijven.
+
+Geen verband met zenders of rechthebbenden
+------------------------------------------
+SceneRadio M3U is op geen enkele manier verbonden aan, gesponsord door of goedgekeurd door de radiozenders,
+omroepen of bedrijven waarvan de naam, het logo of de stream in de lijst voorkomt. Alle namen en logo's
+zijn eigendom van hun eigenaren en worden alleen gebruikt om een zender herkenbaar te maken.
+Dit project bevat en verspreidt zelf geen audio: de lijst bevat alleen de adressen van de streams.
+Wil een rechthebbende dat een naam, logo of stream hier verdwijnt, meld dat dan via GitHub
+(https://github.com/onneau); het wordt dan zo snel mogelijk verwijderd.
+
+Onderdelen die niet onder deze licentie vallen
+----------------------------------------------
+- De logo's in logos/ zijn van hun eigenaren. Ze komen van Wikimedia Commons (elk bestand met zijn eigen
+  licentie), van de websites van de zenders zelf en van de Radio Browser-database
+  (https://www.radio-browser.info). logos/manifest.json noteert per logo de bron.
+- Stream-adressen komen van de omroepen zelf en van openbare bronnen.
+- Namen van zenders en omroepen zijn merknamen van hun eigenaren.

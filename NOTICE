@@ -1,28 +1,30 @@
 Required Notice: Copyright (c) 2026 Onno (https://github.com/onneau)
 
-SceneRadio M3U is een hobbyproject van Onno.
-Licentie: PolyForm Noncommercial License 1.0.0 (zie het bestand LICENSE).
+Nederlandse versie: NOTICE.nl.md
 
-In gewone woorden (de licentietekst zelf is leidend):
-- Je mag de lijst gebruiken, aanpassen, kopiëren en delen voor niet-commerciële doeleinden:
-  privé, hobby, onderzoek, onderwijs en goede doelen.
-- Commercieel gebruik is niet toegestaan.
-- Geef je het door (ook een aangepaste versie), geef dan dit bestand (NOTICE) en LICENSE mee. Zo blijft
-  de naam van de maker erbij staan. De "Required Notice"-regel hierboven moet erbij blijven.
+SceneRadio M3U is a hobby project by Onno.
+License: PolyForm Noncommercial License 1.0.0 (see the file LICENSE).
 
-Geen verband met zenders of rechthebbenden
+In plain words (the license text itself prevails):
+- You may use, modify, copy and share the list for non-commercial purposes:
+  private, hobby, research, education and charities.
+- Commercial use is not allowed.
+- If you pass it on (including a modified version), include this file (NOTICE) and LICENSE. This keeps
+  the creator's name with it. The "Required Notice" line above must stay.
+
+No connection with stations or rights holders
+---------------------------------------------
+SceneRadio M3U is in no way affiliated with, sponsored by or endorsed by the radio stations, broadcasters or
+companies whose name, logo or stream appears in the list. All names and logos are the property of their
+owners and are only used to make a station recognizable.
+This project does not contain or distribute any audio itself: the list only contains the addresses of the streams.
+If a rights holder wants a name, logo or stream removed from here, report it via GitHub
+(https://github.com/onneau); it will be removed as soon as possible.
+
+Parts that are not covered by this license
 ------------------------------------------
-SceneRadio M3U is op geen enkele manier verbonden aan, gesponsord door of goedgekeurd door de radiozenders,
-omroepen of bedrijven waarvan de naam, het logo of de stream in de lijst voorkomt. Alle namen en logo's
-zijn eigendom van hun eigenaren en worden alleen gebruikt om een zender herkenbaar te maken.
-Dit project bevat en verspreidt zelf geen audio: de lijst bevat alleen de adressen van de streams.
-Wil een rechthebbende dat een naam, logo of stream hier verdwijnt, meld dat dan via GitHub
-(https://github.com/onneau); het wordt dan zo snel mogelijk verwijderd.
-
-Onderdelen die niet onder deze licentie vallen
-----------------------------------------------
-- De logo's in logos/ zijn van hun eigenaren. Ze komen van Wikimedia Commons (elk bestand met zijn eigen
-  licentie), van de websites van de zenders zelf en van de Radio Browser-database
-  (https://www.radio-browser.info). logos/manifest.json noteert per logo de bron.
-- Stream-adressen komen van de omroepen zelf en van openbare bronnen.
-- Namen van zenders en omroepen zijn merknamen van hun eigenaren.
+- The logos in logos/ belong to their owners. They come from Wikimedia Commons (each file with its own
+  license), from the stations' own websites and from the Radio Browser database
+  (https://www.radio-browser.info). logos/manifest.json records the source of each logo.
+- Stream addresses come from the broadcasters themselves and from public sources.
+- Names of stations and broadcasters are trademarks of their owners.

@@ -1,46 +1,48 @@
 # SceneRadio M3U
 
-Een automatisch bijgewerkte M3U-lijst met Nederlandse landelijke, regionale en DAB+-radiostations, met logo's. Gemaakt voor de Android-app **SceneRadio**, maar te gebruiken in elke speler die M3U-lijsten met `tvg-logo` en `group-title` kent.
+**English** · [Nederlands](README.nl.md)
 
-## Gebruik
+An automatically updated M3U list of Dutch national, regional and DAB+ radio stations, with logos. Made for the Android app **SceneRadio**, but usable in any player that understands M3U lists with `tvg-logo` and `group-title`.
 
-Het adres van de lijst:
+## Usage
+
+The address of the list:
 
 ```
 https://raw.githubusercontent.com/onneau/sceneradio-m3u/main/nederlandse-radio.m3u
 ```
 
-- **SceneRadio**: de lijst is de standaardlijst. Er is geen account of token nodig.
-- **Andere spelers**: voeg het adres hierboven toe als afspeellijst of "M3U-URL".
-- De logo's staan in `logos/` en worden in de lijst relatief genoemd (`tvg-logo="logos/<naam>.jpg?v=<code>"`). Spelers die relatieve adressen niet begrijpen, plakken er `https://raw.githubusercontent.com/onneau/sceneradio-m3u/main/` voor.
-- GitHub bewaart raw-bestanden een paar minuten in de cache, dus een nieuwe versie kan even duren.
+- **SceneRadio**: the list is the default list. No account or token is needed.
+- **Other players**: add the address above as a playlist or "M3U URL".
+- The logos are in `logos/` and are named relatively in the list (`tvg-logo="logos/<name>.jpg?v=<code>"`). Players that do not understand relative addresses put `https://raw.githubusercontent.com/onneau/sceneradio-m3u/main/` in front of it.
+- GitHub keeps raw files in its cache for a few minutes, so a new version can take a moment.
 
-## Wat staat erin
+## What is in it
 
-| Bestand | Inhoud |
+| File | Contents |
 | --- | --- |
-| `nederlandse-radio.m3u` | de lijst: naam, genres (`group-title`, meerdere gescheiden door `;`), logo en stream-adres |
-| `logos/*.jpg` | logo's, hoogstens 500 punten aan de langste zijde |
-| `logos/manifest.json` | per logo de bron waar het vandaan komt |
+| `nederlandse-radio.m3u` | the list: name, genres (`group-title`, several separated by `;`), logo and stream address |
+| `logos/*.jpg` | logos, at most 500 points on the longest side |
+| `logos/manifest.json` | the source of each logo |
 
-## Hoe de lijst wordt gemaakt
+## How the list is made
 
-Deze repository bevat alleen het **resultaat**. De lijst wordt automatisch gemaakt en gecontroleerd in een aparte, eigen bronlijst:
+This repository only contains the **result**. The list is made and checked automatically from a separate source list of its own:
 
-- Streams worden dagelijks gecontroleerd. Een zender valt pas uit de lijst na drie keer achter elkaar een fout, en komt vanzelf terug zodra de stream weer werkt.
-- Logo's komen van Wikimedia Commons, van de zenders zelf of van de [Radio Browser](https://www.radio-browser.info)-database.
-- Wijzigingen in deze repository worden door de beheerder gemaakt; losse wijzigingen hier worden bij de volgende update overschreven.
+- Streams are checked daily. A station only drops out of the list after failing three times in a row, and comes back by itself as soon as the stream works again.
+- Logos come from Wikimedia Commons, from the stations themselves or from the [Radio Browser](https://www.radio-browser.info) database.
+- Changes to this repository are made by the maintainer; changes made here by hand are overwritten at the next update.
 
-## Een zender mist of werkt niet?
+## A station is missing or does not work?
 
-Maak een *issue* aan met de naam van de zender en, als je die hebt, het adres van de stream.
+Create an *issue* with the name of the station and, if you have it, the address of the stream.
 
-## Geen verband met de zenders
+## No connection with the stations
 
-Dit project is op geen enkele manier verbonden aan, gesponsord door of goedgekeurd door de radiozenders, omroepen of bedrijven waarvan de naam, het logo of de stream in de lijst voorkomt. Alle namen en logo's zijn eigendom van hun eigenaren en worden alleen gebruikt om een zender herkenbaar te maken. Er staat **geen audio** in deze repository: de streams worden rechtstreeks bij de zenders opgehaald.
+This project is in no way affiliated with, sponsored by or endorsed by the radio stations, broadcasters or companies whose name, logo or stream appears in the list. All names and logos are the property of their owners and are only used to make a station recognizable. There is **no audio** in this repository: the streams are fetched directly from the stations.
 
-**Wil een rechthebbende dat een naam, logo of stream hier verdwijnt?** Meld dat via een *issue* of via https://github.com/onneau. Het wordt dan zo snel mogelijk verwijderd.
+**Does a rights holder want a name, logo or stream removed from here?** Report it via an *issue* or via https://github.com/onneau. It will be removed as soon as possible.
 
-## Licentie
+## License
 
-De lijst en de teksten vallen onder de [PolyForm Noncommercial License 1.0.0](LICENSE): gebruik voor privé, hobby, onderzoek, onderwijs en goede doelen, niet commercieel. Zie `NOTICE` voor wat daar niet onder valt (de logo's en namen van de zenders).
+The list and the texts fall under the [PolyForm Noncommercial License 1.0.0](LICENSE): use for private, hobby, research, education and charities, not commercial. See `NOTICE` ([Nederlands](NOTICE.nl.md)) for what is not covered (the logos and names of the stations).
